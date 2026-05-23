@@ -1,0 +1,4 @@
+node_modules/
+search-data.json
+system-prompt.json
+.env
